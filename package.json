@@ -1,9 +1,9 @@
 {
-  "name": "jalmeida-temphomepage",
+  "name": "azafama-me",
   "version": "0.0.1",
   "author": "Joao Almeida",
   "contributors": [
-    "Joao Diogo Almeida <joao.diogo.almeida@gmail.com> (http://azafama.io)"
+    "Joao Diogo Almeida <joao.diogo.almeida@azafama.me> (http://azafama.me)"
   ],
   "devDependencies": {
     "gulp": "^3.9.1",

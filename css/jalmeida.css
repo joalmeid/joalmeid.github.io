@@ -4,11 +4,11 @@ h1 {
 }
 a,
 body {
-    color: #665
+    color: white
 }
 ::selection,
 body {
-    background-color: #eee
+    background-color: #0C2600;
 }
 .contact,
 .photo,
@@ -186,7 +186,7 @@ a {
     margin-left: -555px
 }
 div.photo:before {
-    content: url(../img/jalmeida.png)
+    content: url(../img/joalmeid-av-ellipse-480.png)
 }
 .text {
     width: 530px;
@@ -205,11 +205,11 @@ div.photo:before {
     font-size: 3em
 }
 .contacts a {
-    color: #888;
+    color: white;
     transition: color ease .3s
 }
 .contacts a:hover {
-    color: #444
+    color: #cfe3cb
 }
 .contact {
     display: table;
@@ -253,7 +253,7 @@ div.photo:before {
         width: 450px
     }
     div.photo:before {
-    content: url(../img/jalmeida380.png)
+    content: url(../img/joalmeid-av-ellipse-380.png)
     }
     .text {
         margin-top: 20px;
@@ -280,7 +280,7 @@ div.photo:before {
         margin-left: -375px
     }
     div.photo:before {
-        content: url(../img/jalmeida280.png)
+        content: url(../img/joalmeid-av-ellipse-280.png)
     }
     .text {
         width: 420px;
@@ -368,7 +368,7 @@ div.photo:before {
         float: none
     }
     div.photo:before {
-        content: url(../img/jalmeida280.png)
+        content: url(../img/joalmeid-av-ellipse-280.png)
     }
     .text {
         width: 420px;
@@ -409,7 +409,7 @@ div.photo:before {
         float: none
     }
     div.photo:before {
-        content: url(../img/jalmeida200.png)
+        content: url(../img/joalmeid-av-ellipse-200.png)
     }
     .text {
         margin-top: 20px;
