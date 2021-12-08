@@ -1,2 +1,0 @@
-# azafama.me
-João Almeida
